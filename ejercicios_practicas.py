@@ -1,5 +1,4 @@
 #EJERCICIOS PRÁCTICAS
-"""ME QUEDÉ EN LA PARTE 5"""
 n = input("introduzca su nombre: ")
 
 print("bienvenido ", n)
