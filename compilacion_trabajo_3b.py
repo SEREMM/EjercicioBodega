@@ -1,3 +1,4 @@
+
 score = input("Ingresa puntaje (selecciona valores entre 0.0[mínimo] y 1.0[máximo]): ")
 score1 = 0
 

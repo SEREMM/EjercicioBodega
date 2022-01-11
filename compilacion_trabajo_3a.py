@@ -1,3 +1,4 @@
+
 hrs = input("ingrese horas laboradas: ")
 tarifa = input("ingrese tarifa designada por hora: ")
 hrsext = 0
